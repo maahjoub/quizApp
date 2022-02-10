@@ -12,14 +12,13 @@ let myRequest = new XMLHttpRequest();
 myRequest.onreadystatechange = function () {
     if (this.readyState === 4 && this.status === 200) {        
         let questionsOpj = JSON.parse(this.responseText)
-        console.log(questionsOpj);
         let Qcouny = questionsOpj.length 
         // function createPolets
         createPolets(Qcouny)
         // function addQdata
         addQdata(questionsOpj[curentIndex], Qcouny)
         // function countDown
-        countDown(120, Qcouny)
+        countDown(30, Qcouny)
         // function checkAnswers
        submitButton.onclick = () => {
             let therightAnswer = questionsOpj[curentIndex].right_answer

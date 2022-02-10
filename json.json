@@ -1,82 +1,82 @@
 [
     {
-        "title" : "any question no 1",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 1"
+        "title" : "What does HTML stand for?",
+        "answer_1" : " Hyperlinks and Text Markup Language",
+        "answer_2" : "Home Tool Markup Language",
+        "answer_3" : "Hyper Text Markup Language",
+        "answer_4" : "Mobil Apps",
+        "right_answer" : "Hyper Text Markup Language"
     },
     {
-        "title" : "any question no 2",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
+        "title" : "What is the difference between an opening tag and a closing tag?",
+        "answer_1" : "Opening tag has a / in front",
+        "answer_2" : "Closing tag has a / in front",
+        "answer_3" : "There is no difference",
+        "answer_4" : "All Answer is Curect",
         "right_answer" : "any answer no 2"
     },
     {
-        "title" : "any question no 3",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 4"
+        "title" : "<br/> What type of tag is this?",
+        "answer_1" : "Break tag",
+        "answer_2" : "A broken one",
+        "answer_3" : "An opening tag",
+        "answer_4" : "An Image Tag",
+        "right_answer" : "Break tag"
     },
     {
-        "title" : "any question no 4",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 3"
+        "title" : "< body > Is this an opening tag or a closing tag?",
+        "answer_1" : "Container Tag",
+        "answer_2" : "Opening Tag",
+        "answer_3" : "Closing Tag",
+        "answer_4" : "css Selector ",
+        "right_answer" : "Opening Tag"
     },
     {
-        "title" : "any question no 5",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 2"
+        "title" : " Where is the meta tag only found?",
+        "answer_1" : "The last page",
+        "answer_2" : "The home page",
+        "answer_3" : "The second page",
+        "answer_4" : "The Landing page",
+        "right_answer" : "The home page"
     },
     {
-        "title" : "any question no 6",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 1"
+        "title" : "Which is the correct way to tag an image?",
+        "answer_1" : "Src=”image.jpg/gif” alt=”type some text”",
+        "answer_2" : "Src=”image.jpg/gif” alt=”type some text”",
+        "answer_3" : "href=”image.jpg/gif” alt=”type some text”",
+        "answer_4" : "Src=\"image.jpg/gif\" alt=”type some text”",
+        "right_answer" : "Src=\"image.jpg/gif\" alt=”type some text”"
     },
     {
-        "title" : "any question no 7",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 1"
+        "title" : "What is an element that does not have a closing tag called?",
+        "answer_1" : "Tag",
+        "answer_2" : "Closed element",
+        "answer_3" : "Empty element",
+        "answer_4" : "img element",
+        "right_answer" : "Empty element"
     },
     {
-        "title" : "any question no 8",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 3"
+        "title" : "Which of the following is an example of an empty element?",
+        "answer_1" : "<img/>",
+        "answer_2" : "<img> </img >",
+        "answer_3" : "</img> <img >",
+        "answer_4" : "</img>",
+        "right_answer" : "<img/>"
     },
     {
-        "title" : "any question no 9",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 2"
+        "title" : "What should values always be enclosed in?",
+        "answer_1" : "Quotation marks",
+        "answer_2" : "Commas",
+        "answer_3" : "Plus marks",
+        "answer_4" : "Parenthesis",
+        "right_answer" : "Quotation marks"
     },
       {
-        "title" : "any question no 10",
-        "answer_1" : "any answer no 1",
-        "answer_2" : "any answer no 2",
-        "answer_3" : "any answer no 3",
-        "answer_4" : "any answer no 4",
-        "right_answer" : "any answer no 3"
+        "title" : "Where do all items for the same website need to be saved?",
+        "answer_1" : "In the same folder",
+        "answer_2" : "Where ever is fine",
+        "answer_3" : "In different folders",
+        "answer_4" : "In Google search engine",
+        "right_answer" : "In the same folder"
     }
 ]

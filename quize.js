@@ -32,7 +32,7 @@ myRequest.onreadystatechange = function () {
             handelBullets()
             // function countDown
             clearInterval(countDownInterval)
-            countDown(120, Qcouny)
+            countDown(30, Qcouny)
              // function showResult
             showResult(Qcouny)
        }
@@ -128,7 +128,7 @@ function showResult(count) {
         } else if (rightAnswers === count ) {
             results = ` <span class = "perfect" >Perfect</span> , ${rightAnswers} From ${count} is Perfect`
         } else {
-            results = ` <span class = "bad" >BAD</span> , ${rightAnswers} From ${count} is bad try again later`
+            results = ` <span class = "bad" >BAD</span> , ${rightAnswers} From ${count} is bad try again`
         }
         resultsContainer.innerHTML = results
     }
